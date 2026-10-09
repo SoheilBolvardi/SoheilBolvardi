@@ -14,7 +14,7 @@ My academic interests include **telecommunications, electronic circuit design, a
 
 * **[Electrical Circuit Simulator](https://github.com/SoheilBolvardi/Electrical-Circuit-Simulator)** — A C++ circuit simulator supporting DC and AC analysis, transient simulation, parameter sweeps, and graphical circuit design.
 
-* **Multistage Feedback Amplifier** — Designed and analyzed a multistage amplifier in LTspice, incorporating a differential input stage, a gain stage, and a push-pull output stage. Negative feedback was used to achieve a target closed-loop voltage gain, with performance evaluated through simulations of gain, output power, efficiency, and distortion.
+* **[Audio Amplifier](https://github.com/SoheilBolvardi/Audio-Amplifier-LTspice)** — Designed, analyzed and simulated a multistage amplifier in LTspice, incorporating a differential input stage, a gain stage, and a push-pull output stage. Negative feedback was used to achieve a target closed-loop voltage gain, with performance evaluated through simulations of gain, output power, efficiency, and distortion.
 
 * **Speech and Siren Filtering** — A MATLAB project involving signal analysis and frequency-selective filtering to separate siren sounds from speech.
 
