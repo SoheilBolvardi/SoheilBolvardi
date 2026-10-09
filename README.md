@@ -9,16 +9,14 @@ My academic interests include **telecommunications, electronic circuit design, a
 * Telecommunications and communication systems
 * Signal processing
 * Electronic circuit design and analysis
-* Mathematical foundations of engineering
+  
 ## Selected Projects
 
 * **[Electrical Circuit Simulator](https://github.com/SoheilBolvardi/Electrical-Circuit-Simulator)** — A C++ circuit simulator supporting DC and AC analysis, transient simulation, parameter sweeps, and graphical circuit design.
 
-* **[Audio Amplifier](https://github.com/SoheilBolvardi/Audio-Amplifier-LTspice)** — Designed, analyzed and simulated a multistage amplifier in LTspice, incorporating a differential input stage, a gain stage, and a push-pull output stage. Negative feedback was used to achieve a target closed-loop voltage gain, with performance evaluated through simulations of gain, output power, efficiency, and distortion.
-
-* **Speech and Siren Filtering** — A MATLAB project involving signal analysis and frequency-selective filtering to separate siren sounds from speech.
-
-* **Tanaka's Central Limit Theorem** — A probability and statistics project studying a proof of Tanaka's central limit theorem, with a focus on probability measures, coupling, and probability metrics.
+* **[Audio Amplifier](https://github.com/SoheilBolvardi/Audio-Amplifier-LTspice)** — Designed and simulated a multistage amplifier in LTspice, featuring a differential input stage, a gain stage, a push-pull output stage, and negative feedback. Evaluated closed-loop gain, output power, efficiency, and distortion.
+  
+* **[Speech and Siren Filtering](https://github.com/SoheilBolvardi/Speech-and-Siren-Filtering)** — A MATLAB project involving signal analysis and frequency-selective filtering to separate siren sounds from speech.
 
 ## Technical Skills
 
