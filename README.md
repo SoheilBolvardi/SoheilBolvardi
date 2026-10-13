@@ -1,36 +1,38 @@
-# Hi, I'm Soheil Bolvardi
+# Soheil Bolvardi
 
-I'm an undergraduate student at **Sharif University of Technology**, pursuing degrees in Electrical Engineering and Mathematics.
+I am pursuing two concurrent B.Sc. degrees in Electrical Engineering and
+Mathematics at Sharif University of Technology. My interests are communication
+systems, signal processing, and mathematical methods for engineering.
 
-My academic interests include **telecommunications, electronic circuit design, and mathematics**. I am interested in understanding the theoretical foundations of engineering systems and exploring how mathematical ideas connect with practical engineering problems.
+My projects combine numerical simulation, programming, and mathematical study.
+I also serve as a teaching assistant in electrical circuits and programming.
 
-## Academic Interests
+## Selected projects
 
-* Telecommunications and communication systems
-* Signal processing
-* Electronic circuit design and analysis
-  
-## Selected Projects
+- **[Electrical Circuit Simulator](https://github.com/SoheilBolvardi/Electrical-Circuit-Simulator)**
+  - A C++ simulation project based on modified nodal analysis, with matrix
+    stamping and real/complex linear-system solvers.
+- **[Frequency-Domain Audio Processing](https://github.com/SoheilBolvardi/Frequency-Domain-Audio-Processing)**
+  - MATLAB-based Fourier analysis and frequency-selective suppression of siren
+    interference in speech, with discussion of the loss of overlapping speech
+    components.
+- **[Tanaka's Central Limit Theorem](https://github.com/SoheilBolvardi/Tanaka-CLT-Study)**
+  - A reading project on coupling arguments and Wasserstein distance,
+    accompanied by a four-part mathematical exposition.
+- **[Audio Power Amplifier](https://github.com/SoheilBolvardi/Audio-Amplifier-LTspice)**
+  - LTspice design and simulation of a feedback amplifier, with analysis of
+    gain, distortion, output swing, and output-stage efficiency.
 
-* **[Electrical Circuit Simulator](https://github.com/SoheilBolvardi/Electrical-Circuit-Simulator)** — A C++ circuit simulator supporting DC and AC analysis, transient simulation, parameter sweeps, and graphical circuit design.
+## Background and tools
 
-* **[Audio Amplifier](https://github.com/SoheilBolvardi/Audio-Amplifier-LTspice)** — Designed and simulated a multistage amplifier in LTspice, featuring a differential input stage, a gain stage, a push-pull output stage, and negative feedback. Evaluated closed-loop gain, output power, efficiency, and distortion.
-  
-* **[Speech and Siren Filtering](https://github.com/SoheilBolvardi/Speech-and-Siren-Filtering)** — A MATLAB project involving signal analysis and frequency-selective filtering to separate siren sounds from speech.
+Completed coursework includes Signals and Systems, Probability and Statistics,
+Electrical Circuits I and II, Electronics I and II, and Electromagnetics.
 
-## Technical Skills
-
-**Programming:** C, C++, Python, MATLAB, Verilog, Assembly
-
-**Tools:** LTspice, Git, GitHub
-
-**Technologies:** Next.js, TypeScript, PostgreSQL, Redis
+Programming: C++, C, MATLAB, Python, Verilog, and Assembly.
+Tools: LTspice, Git, and LaTeX.
 
 ## Contact
 
-* [GitHub](https://github.com/SoheilBolvardi)
-
-
-
-
-
+[Email](mailto:soheilbolvardi85@gmail.com) |
+[Portfolio](https://soheilbolvardi.github.io/portfolio/) |
+[LinkedIn](https://www.linkedin.com/in/soheil-bolvardi/)
